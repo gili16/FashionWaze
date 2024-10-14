@@ -1,0 +1,560 @@
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\appsettings.Development.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\appsettings.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Web api.exe
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Web api.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Web api.runtimeconfig.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Web api.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Web api.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\staticwebassets.build.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\staticwebassets.development.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\scopedcss\bundle\Web api.styles.css
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\refint\Web api.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\ref\Web api.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Azure.Core.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Azure.Identity.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Memory.Data.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\BL.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Dal.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Model.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\BL.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Dal.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Model.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\refint\Web api.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\appsettings.Development.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\appsettings.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Web api.exe
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Web api.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Web api.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Web api.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Web api.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Azure.Core.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Azure.Identity.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\BL.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Model.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\BL.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Model.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\staticwebassets.build.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\staticwebassets.development.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\scopedcss\bundle\Web api.styles.css
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\ref\Web api.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\appsettings.Development.json
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\appsettings.json
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Web api.exe
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Web api.deps.json
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Web api.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Web api.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Web api.pdb
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Azure.Core.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Azure.Identity.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\BL.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Model.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\BL.pdb
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\bin\Debug\net6.0\Model.pdb
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\Web api.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\Web api.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cache
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\staticwebassets.build.json
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\staticwebassets.development.json
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\scopedcss\bundle\Web api.styles.css
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\Web api.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\refint\Web api.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\Web api.pdb
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\Web api.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Web api\obj\Debug\net6.0\ref\Web api.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\Web api.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\Web api.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\Web api.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\refint\Web api.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\Web api.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\appsettings.Development.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\appsettings.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Web api.exe
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Web api.deps.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Web api.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Web api.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Web api.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Azure.Core.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Azure.Identity.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\BL.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Model.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\BL.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\bin\Debug\net6.0\Model.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\staticwebassets.build.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\staticwebassets.development.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\scopedcss\bundle\Web api.styles.css
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\Web api.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Web api\obj\Debug\net6.0\ref\Web api.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\Web api.csproj.AssemblyReference.cache
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\Web api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfoInputs.cache
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfo.cs
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CoreCompileInputs.cache
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\Web api.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\refint\Web api.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\Web api.pdb
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\appsettings.json
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Web api.exe
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Web api.deps.json
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Web api.runtimeconfig.json
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Web api.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Web api.pdb
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\BL.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Dal.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Model.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\BL.pdb
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Dal.pdb
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\bin\Debug\net6.0\Model.pdb
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\scopedcss\bundle\Web api.styles.css
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CopyComplete
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\Web api.genruntimeconfig.cache
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Web api\obj\Debug\net6.0\ref\Web api.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\appsettings.Development.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\appsettings.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Web api.exe
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Web api.deps.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Web api.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Web api.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Web api.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Azure.Core.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Azure.Identity.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\BL.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Model.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\BL.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\bin\Debug\net6.0\Model.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\Web api.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\Web api.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\staticwebassets.build.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\staticwebassets.development.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\scopedcss\bundle\Web api.styles.css
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\Web api.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\refint\Web api.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\Web api.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\Web api.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Web api\obj\Debug\net6.0\ref\Web api.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\appsettings.Development.json
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\appsettings.json
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Web api.exe
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Web api.deps.json
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Web api.runtimeconfig.json
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Web api.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Web api.pdb
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Azure.Core.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Azure.Identity.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\System.Memory.Data.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\BL.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Dal.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Model.dll
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\BL.pdb
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Dal.pdb
+F:\python_project\DataBase\Web api\Web api\bin\Debug\net6.0\Model.pdb
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\Web api.csproj.AssemblyReference.cache
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\Web api.GeneratedMSBuildEditorConfig.editorconfig
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfoInputs.cache
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfo.cs
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CoreCompileInputs.cache
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cs
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cache
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\staticwebassets.build.json
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\staticwebassets.development.json
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\scopedcss\bundle\Web api.styles.css
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CopyComplete
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\Web api.dll
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\refint\Web api.dll
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\Web api.pdb
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\Web api.genruntimeconfig.cache
+F:\python_project\DataBase\Web api\Web api\obj\Debug\net6.0\ref\Web api.dll

@@ -1,0 +1,105 @@
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\bin\Debug\net6.0\Dal.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\bin\Debug\net6.0\Dal.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\bin\Debug\net6.0\Dal.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\refint\Dal.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\ref\Dal.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\bin\Debug\net6.0\Model.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\bin\Debug\net6.0\Model.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\refint\Dal.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\bin\Debug\net6.0\Dal.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\bin\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\bin\Debug\net6.0\Model.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\bin\Debug\net6.0\Model.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\ref\Dal.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\bin\Debug\net6.0\Dal.deps.json
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\bin\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\bin\Debug\net6.0\Model.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\bin\Debug\net6.0\Model.pdb
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\obj\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\obj\Debug\net6.0\refint\Dal.dll
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\obj\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\REACT\שב\פרוייקט שרת\Web api\Dal\obj\Debug\net6.0\ref\Dal.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\bin\Debug\net6.0\Dal.deps.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\bin\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\bin\Debug\net6.0\Model.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\bin\Debug\net6.0\Model.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\obj\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\obj\Debug\net6.0\refint\Dal.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\obj\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\Web api\Dal\obj\Debug\net6.0\ref\Dal.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\obj\Debug\net6.0\Dal.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\obj\Debug\net6.0\refint\Dal.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\obj\Debug\net6.0\Dal.pdb
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\bin\Debug\net6.0\Dal.deps.json
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\bin\Debug\net6.0\Dal.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\bin\Debug\net6.0\Dal.pdb
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\bin\Debug\net6.0\Model.dll
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\bin\Debug\net6.0\Model.pdb
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+C:\Users\landa\Documents\לימודים\תכנות יד\בינה - תרגיל\שב\pythonProject\finalProject\code\Web api\Dal\obj\Debug\net6.0\ref\Dal.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\bin\Debug\net6.0\Dal.deps.json
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\bin\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\bin\Debug\net6.0\Model.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\bin\Debug\net6.0\Model.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\obj\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\obj\Debug\net6.0\refint\Dal.dll
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\obj\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\בינה - תרגיל\פרויקט\code\Web api\Dal\obj\Debug\net6.0\ref\Dal.dll
+F:\python_project\DataBase\Web api\Dal\bin\Debug\net6.0\Dal.deps.json
+F:\python_project\DataBase\Web api\Dal\bin\Debug\net6.0\Dal.dll
+F:\python_project\DataBase\Web api\Dal\bin\Debug\net6.0\Dal.pdb
+F:\python_project\DataBase\Web api\Dal\bin\Debug\net6.0\Model.dll
+F:\python_project\DataBase\Web api\Dal\bin\Debug\net6.0\Model.pdb
+F:\python_project\DataBase\Web api\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+F:\python_project\DataBase\Web api\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\python_project\DataBase\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+F:\python_project\DataBase\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+F:\python_project\DataBase\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+F:\python_project\DataBase\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+F:\python_project\DataBase\Web api\Dal\obj\Debug\net6.0\Dal.dll
+F:\python_project\DataBase\Web api\Dal\obj\Debug\net6.0\refint\Dal.dll
+F:\python_project\DataBase\Web api\Dal\obj\Debug\net6.0\Dal.pdb
+F:\python_project\DataBase\Web api\Dal\obj\Debug\net6.0\ref\Dal.dll
